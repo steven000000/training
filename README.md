@@ -10,6 +10,17 @@
 * [業界與學界，深刻的鴻溝](http://blog.caesarchi.com/2013/12/blog-post_22.html)
 * [TonyQ對於第二篇的回應](https://www.facebook.com/notes/10151828753826709)
 
+## 本學期作業繳交方式
+
+每一次上課都會新增一個目錄，請同學們同步老師的repo之後，再繳交作業上來。
+
+以EX1為例，若R9543002要繳交作業的話，檔案目錄結構應該如下
+
+* EX1/R9543002/aaa.png
+* EX1/R9543002/bbb.png
+
+EX1後面直接帶學號就可以了，不用另外帶班級、姓名喔，統一格式也比較容易讓老師及助教批改。
+
 ## References
 
 * [Markdown 語法說明](http://markdown.tw/)
