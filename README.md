@@ -52,3 +52,5 @@ upstream  https://github.com/ucs0065/training.git (push)
 
 * [Markdown 語法說明](http://markdown.tw/)
 * [Dillinger - 一套Markdown的線上編輯器](http://dillinger.io/)
+* [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork)
+* [Syncing a fork](https://help.github.com/articles/syncing-a-fork)
